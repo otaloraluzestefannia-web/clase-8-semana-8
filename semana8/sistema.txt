@@ -1,0 +1,2 @@
+la informacion que muestra cada comando es util para podernos ubicar en lo que estamos trabajando ya sea en la terminal del pc o en la nube como codespaces 
+es importante conocer el sistema opreativo en el que uno trabaja por que hay comando que no son unibersales y dependiendo del equipo que se trabaje cambien algunos comando 

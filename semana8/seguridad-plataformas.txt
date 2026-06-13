@@ -1,0 +1,2 @@
+uname -a: me sale que estoy trabajando en codespaces desl sistema operativo linux y me aperece la hora exacta en la que estoy trab
+whoami: me especifica el lugar exacto donde estoy trabjando 

@@ -1,0 +1,9 @@
+la seguridad digital en plataformas pacticipativas y comunitarias no es un asusto tecnico de proteger los servidores; es el pilar que sostiene la confianza, la libertad expresion y la integridad de los procesos colectivos. Cuando una plataforma depende de la participación activa de las personas (como foros comunitarios, herramientas de presupuesto participativo, plataformas de veeduría ciudadana o proyectos pedagógicos), un fallo de seguridad puede destruir el proyecto por completo.En los procesos comunitarios, las personas suelen compartir opiniones, datos personales o denuncias sensibles.
+
+El riesgo: Si la plataforma sufre una filtración de datos, la identidad de los usuarios queda expuesta.
+
+El impacto: Esto puede derivar en acoso, persecución digital o represalias en el mundo real. La seguridad digital (mediante el cifrado y la protección de bases de datos) garantiza que participar no se convierta en un riesgo para el usuario. La participación democrática o comunitaria se basa en la legitimidad. Si los usuarios no confían en la herramienta, simplemente dejan de usarla.
+
+El riesgo: Un ataque que altere los resultados de una votación, que manipule un foro o que llene la plataforma de spam y desinformación.
+
+El impacto: La comunidad pierde la fe en el sistema, invalidando el esfuerzo organizativo y destruyendo la reputación de la plataforma.
